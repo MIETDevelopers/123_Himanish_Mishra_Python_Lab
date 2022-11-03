@@ -3,7 +3,7 @@ Count the number of alphabets in the given string.
 To extract characters in the given, range from the given string.
 Check if the string is alphanumeric or not.
 
-Author: Archit Gandotra
+Author: Himanish Mishra
 '''
 
 str="Welcome to Python world"
